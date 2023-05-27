@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+*{
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+  }
+
+div.imagen{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+p.feliskum{
+    text-align: center;
+    font-family: 'Grand Hotel', cursive;
+    font-size: 100px;
+    color: aliceblue;
+}
+
+p.texto{
+    text-align: center;
+    font-family: 'Comic Neue', cursive;
+    color: aliceblue;
+    font-size: 20px;
+}
